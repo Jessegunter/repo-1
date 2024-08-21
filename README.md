@@ -43,7 +43,8 @@
 * This wouldnt require any different tech it would just require instalation of cameras in places that the schools might currently not have.
 
 
-##Citing
+## Citing
+
 For this case study i used the Zero Eyes website. https://zeroeyes.com
 
 I also reached out to a friend at the company to gain further insight "Chad Spiller, Director of Partnerships" 

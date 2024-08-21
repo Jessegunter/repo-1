@@ -2,7 +2,7 @@
 
 ## Origin and Over view
 
-* Zero Eyes was started in 2018 by a group of Navy SEALs
+* Zero Eyes was started in 2018 by a group of Navy SEALs. Mike Lahiff, Rob Huberty, Sam Alaimo, & Dustin Brooks.
 
 * The idea came about after the Stoneman douglas school shooting. This group of veterans wanted to come up with a solution that would help prevent as many deaths in these situations.
 
@@ -20,7 +20,7 @@
 
 ## Landscape
 
-* Zero Eyes is in the security and surveillance industry>
+* Zero Eyes is in the security and surveillance industry.
 
 * The innovations this feild has seen in the last 10 years has a lot to do with technology and AI, the main innovations are facial recognition, ML for threat detection, and cloud based surveillance which revolutionized how video is stored.
 
